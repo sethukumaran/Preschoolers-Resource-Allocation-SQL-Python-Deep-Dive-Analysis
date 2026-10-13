@@ -1,6 +1,5 @@
 """
 Preschoolers Resource Allocation Analysis
-Run: python preschoolers_analysis.py
 """
 import pandas as pd
 import numpy as np
